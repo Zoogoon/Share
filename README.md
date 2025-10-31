@@ -2,7 +2,7 @@
 
 ---
 
-## 1️⃣ MetOn 테스트 방법 🟢
+## 1️⃣ MetOn 테스트 방법
 - [https://meton.metlife.co.kr/pLFflfJx](https://meton.metlife.co.kr/pLFflfJx)
 
 1. 접속 후 하단으로 스크롤
@@ -12,7 +12,7 @@
 
 ---
 
-## 2️⃣ MetBaro 테스트 방법 🔢
+## 2️⃣ MetBaro 테스트 방법
 - [https://ba.metlife.co.kr/met](https://ba.metlife.co.kr/met)
 
 1. 접속 후 하단으로 스크롤
@@ -22,7 +22,7 @@
 
 ---
 
-## 3️⃣ SEMM 테스트 방법 (구매 과정 플로우) 🛒
+## 3️⃣ SEMM 테스트 방법
 - [https://online.metlife.co.kr/](https://online.metlife.co.kr/)
 
 1. 접속 후 메인에 상품 클릭
