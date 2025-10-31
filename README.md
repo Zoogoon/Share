@@ -1,4 +1,4 @@
-# 🌟 ER 테스트 점검 방법 (Emergency Recovery Test Checklist)
+# 🌟 ER 테스트 점검 방법 
 
 ---
 
