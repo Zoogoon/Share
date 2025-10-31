@@ -1,9 +1,9 @@
-# 🌟 ER 테스트 점검 방법
+# 🌟 ER 테스트 점검 방법 (Emergency Recovery Test Checklist)
 
 ---
 
-## 1️⃣ MetOn 테스트 방법
-- https://meton.metlife.co.kr/pLFflfJx
+## 1️⃣ MetOn 테스트 방법 🟢
+- [https://meton.metlife.co.kr/pLFflfJx](https://meton.metlife.co.kr/pLFflfJx)
 
 1. 접속 후 하단으로 스크롤
 2. 아래와 같은 배너가 보이면 PASS
@@ -12,8 +12,8 @@
 
 ---
 
-## 2️⃣ MetBaro 테스트 방법
-- https://ba.metlife.co.kr/met
+## 2️⃣ MetBaro 테스트 방법 🔢
+- [https://ba.metlife.co.kr/met](https://ba.metlife.co.kr/met)
 
 1. 접속 후 하단으로 스크롤
 2. 아래와 같이 공시이율 숫자가 보이면 PASS
@@ -22,8 +22,8 @@
 
 ---
 
-## 3️⃣ SEMM 테스트 방법
-- https://online.metlife.co.kr/
+## 3️⃣ SEMM 테스트 방법 (구매 과정 플로우) 🛒
+- [https://online.metlife.co.kr/](https://online.metlife.co.kr/)
 
 1. 접속 후 메인에 상품 클릭
 
@@ -36,7 +36,7 @@
 3. 가입하기 버튼클릭
 4. 인증하기 버튼클릭
 
-<img width="1520" height="1594" alt="image" src="https://github.com/user-attachments/assets/0d899ebe-a3f5-45b8-a135-10aa0f081e9b" />
+<img width="1520" height="1594" alt="image" src="https://github.com/user-attachments/assets/0d899ebe-a7eb-45b8-a135-10aa0f081e9b" />
 
 5. 팝업에서 인증진행(아무거나)후 PASS
 
