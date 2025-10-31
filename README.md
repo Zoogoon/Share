@@ -26,18 +26,19 @@
 - [https://online.metlife.co.kr/](https://online.metlife.co.kr/)
 
 1. 접속 후 메인에 상품 클릭
-
-<img width="921" height="823" alt="image" src="https://github.com/user-attachments/assets/2a3bc0e8-e3f4-4dad-b708-b6b33ff933c2" />  
+<br>
+<img width="921" height="823" alt="image" src="https://github.com/user-attachments/assets/2a3bc0e8-e3f4-4dad-b708-b6b33ff933c2" />
 
 2. 하단에 "보험료 간편계산" 버튼클릭 -> "보험료 확인하기"버튼클릭
-
-<img width="801" height="605" alt="image" src="https://github.com/user-attachments/assets/9bd70f3a-3214-406e-8235-44b9491d6e6a" />  
+<br>
+<img width="801" height="605" alt="image" src="https://github.com/user-attachments/assets/9bd70f3a-3214-406e-8235-44b9491d6e6a" />
 
 3. 가입하기 버튼클릭
+
 4. 인증하기 버튼클릭
+<br>
+<img width="1520" height="1594" alt="image" src="https://github.com/user-attachments/assets/0d899ebe-a7eb-45b8-a135-10aa0f081e9b" />
 
-<img width="1520" height="1594" alt="image" src="https://github.com/user-attachments/assets/0d899ebe-a7eb-45b8-a135-10aa0f081e9b" />  
-
-5. 팝업에서 인증진행(아무거나)후 PASS  
+5. 팝업에서 인증진행(아무거나)후 PASS
 
 ---
